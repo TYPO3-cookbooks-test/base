@@ -1,3 +1,3 @@
-stage "test" {
+stage("test") {
   echo "Hello"
 }
